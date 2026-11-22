@@ -1,13 +1,13 @@
 # Kontribusi Anggota dan Penggunaan Alat AI
 
-Repositori kelompok: https://github.com/kwa23/UTS-Machine-Learning
+Repositori kelompok: [https://github.com/kwa23/UTS-Machine-Learning](https://github.com/telkom-ml-kelompok-7-2026/UTS-Machine-Learning)
 
 ## 1. Peran dan kontribusi anggota
 
 | Anggota | Akun GitHub | Peran | Tautan pull request |
 |---|---|---|---|
-| Prasta Arya Seta | `kwa23` | Menyusun `laporan.pdf` (jawaban Tugas 1–3, maksimal 18 halaman tanpa lampiran), menyusun `kontribusi.md`, menggabungkan (merge) semua pull request ke `main` | Laporan: *(isi tautan PR setelah dibuat)*<br>Kontribusi: *(isi tautan PR setelah dibuat)*<br>Merge PR #1, #2, #3 |
-| Nathanael | `nathanaellpratama` | Mengerjakan seluruh kode dan keluaran prediksi: `kode/` (notebook `regresi.ipynb`, `klasifikasi.ipynb`, `clustering.ipynb`, `jalankan_semua.sh`, `requirements.txt`, `README.md`), `prediksi_regresi.csv`, `prediksi_klasifikasi.csv`, `cluster.csv` | [#1 tugas-clustering](https://github.com/kwa23/UTS-Machine-Learning/pull/1)<br>[#2 tugas-regresi](https://github.com/kwa23/UTS-Machine-Learning/pull/2)<br>[#3 tugas-klasifikasi](https://github.com/kwa23/UTS-Machine-Learning/pull/3) |
+| Prasta Arya Seta | `kwa23` | Menyusun `laporan.pdf` (jawaban Tugas 1–3, maksimal 18 halaman tanpa lampiran), menyusun `kontribusi.md`, menggabungkan (merge) semua pull request ke `main` | Laporan: *(isi tautan PR setelah dibuat)*<br>Kontribusi: *([isi tautan PR setelah dibuat](https://github.com/telkom-ml-kelompok-7-2026/UTS-Machine-Learning/pull/5))*<br>Merge PR #1, #2, #3 |
+| Nathanael | `nathanaellpratama` | Mengerjakan seluruh kode dan keluaran prediksi: `kode/` (notebook `regresi.ipynb`, `klasifikasi.ipynb`, `clustering.ipynb`, `jalankan_semua.sh`, `requirements.txt`, `README.md`), `prediksi_regresi.csv`, `prediksi_klasifikasi.csv`, `cluster.csv` | [#1 tugas-clustering](https://github.com/telkom-ml-kelompok-7-2026/UTS-Machine-Learning/pull/1)<br>[#2 tugas-regresi](https://github.com/telkom-ml-kelompok-7-2026/UTS-Machine-Learning/pull/2)<br>[#3 tugas-klasifikasi](https://github.com/telkom-ml-kelompok-7-2026/UTS-Machine-Learning/pull/3) |
 
 Pembagian berkas pengumpulan:
 
